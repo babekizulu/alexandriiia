@@ -3,7 +3,7 @@
 ### @author: Lwandle Babekizulu Dlamini
 
 ## Contact: 
-@babekzulu on X, Threads & Instagram
+@babekizulu on X, Threads & Instagram
 
 ### @contributors: 
 * Lwandle Babekizulu Dlamini,
