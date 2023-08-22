@@ -55,12 +55,10 @@
 * When we’ve created a dataset from all of the data points, clean the dataset
 * Collect map data of the town and it’s buildings
 * Either manually 3D model the town in blender or use AI to generate a 3D model based on the towns map.
-* Store spreadsheet dataset on a vector db
 * Do some machine learning magic with the dataset
 * Share the dataset on Kaggle
 * Build front-end UI of the app with Rust Dioxus
 * Build backend of the app with Rust
-* Use WebGPU and Rust to load 3D models from Amazon S3
 * We’ll start by creating an LLM based on our historical dataset, and each part of the town will automatically begin to send chat 
   styled information when you hover over a specific area. No characters to start with, just an empty ghost town which is prompted 
   by you hovering over its buildings and automatically predicts that you are requesting information on this area.
