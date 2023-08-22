@@ -38,7 +38,7 @@
 * WebXR for all XR functionality
 * Backend: Rust
 * Front-End GUI: Rust
-* Database: Amazon S3
+* Database: PostgreSQL
 * Vector Database: Milvus
 * Google Sheets for initial curation and data cleaning
 
@@ -58,7 +58,6 @@
 * Store spreadsheet dataset on a vector db
 * Do some machine learning magic with the dataset
 * Share the dataset on Kaggle
-* Store the 3D models of the town and props on Amazon S3
 * Build front-end UI of the app with Rust Dioxus
 * Build backend of the app with Rust
 * Use WebGPU and Rust to load 3D models from Amazon S3
