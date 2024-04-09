@@ -62,3 +62,5 @@
 * We’ll start by creating an LLM based on our historical dataset, and each part of the town will automatically begin to send chat 
   styled information when you hover over a specific area. No characters to start with, just an empty ghost town which is prompted 
   by you hovering over its buildings and automatically predicts that you are requesting information on this area.
+
+  PS: Midnight 2024
